@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <ListPreference android:entryValues="@array/WaveValues" android:key="wave" android:title="Wave Type" android:entries="@array/WaveType" android:summary="Select the shape of the sound wave"/>
+    
+
+</PreferenceScreen>
+<!-- From: file:/home/naren/Programming%20stuff/synthesizer-android-studio/app/src/main/res/xml/preferences.xml -->
